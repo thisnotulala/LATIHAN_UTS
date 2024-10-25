@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const mahasiswaSchema = new mongoose.Schema({
+const produkSchema= new mongoose.Schema({
     nama: {
         type: String,
     },
